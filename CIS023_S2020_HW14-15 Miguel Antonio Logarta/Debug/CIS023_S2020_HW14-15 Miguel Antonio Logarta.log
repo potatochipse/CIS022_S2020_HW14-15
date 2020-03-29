@@ -1,0 +1,4 @@
+﻿  CIS023_S2020_HW14-15 Miguel Antonio Logarta.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW14-15 Miguel Antonio Logarta\CIS023_S2020_HW14-15 Miguel Antonio Logarta\CIS023_S2020_HW14-15 Miguel Antonio Logarta.cpp(147,62): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW14-15 Miguel Antonio Logarta\CIS023_S2020_HW14-15 Miguel Antonio Logarta\CIS023_S2020_HW14-15 Miguel Antonio Logarta.cpp(154,31): warning C4101: 'szOutput': unreferenced local variable
+  CIS023_S2020_HW14-15 Miguel Antonio Logarta.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW14-15 Miguel Antonio Logarta\Debug\CIS023_S2020_HW14-15 Miguel Antonio Logarta.exe
